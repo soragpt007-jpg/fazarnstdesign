@@ -27,12 +27,12 @@ export function ContactSection() {
                 <div>
                   <p className="font-medium">WhatsApp</p>
                   <a
-                    href="https://wa.me/628123456789"
+                    href="https://wa.me/6285709455586"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
-                    0812 3456 789
+                    0857 0945 5586
                   </a>
                 </div>
               </div>
@@ -58,7 +58,7 @@ export function ContactSection() {
                 </div>
                 <div>
                   <p className="font-medium">Lokasi</p>
-                  <p className="text-muted-foreground">Jakarta, Indonesia</p>
+                  <p className="text-muted-foreground">Binjai, Indonesia</p>
                 </div>
               </div>
 
@@ -91,7 +91,7 @@ export function ContactSection() {
                   className="w-full bg-[#25D366] hover:bg-[#20BD5A] text-white gap-2"
                 >
                   <a
-                    href="https://wa.me/628123456789?text=Halo,%20saya%20tertarik%20dengan%20jasa%20desain%20grafis%20dan%20ingin%20berkonsultasi"
+                    href="https://wa.me/6285709455586xt=Halo,%20saya%20tertarik%20dengan%20jasa%20desain%20grafis%20dan%20ingin%20berkonsultasi"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
